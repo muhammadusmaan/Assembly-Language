@@ -1,4 +1,5 @@
 **ASCII Art Fencing Game**
+
 Welcome to the ASCII Art Fencing Game! This assembly language program is a classic graphical game designed to run in a DOS environment. The game showcases two ASCII art characters engaged in a fencing duel – a human fencer and an enemy opponent. Take control of the human character using keyboard inputs to outmaneuver and strike your opponent.
 
 **Instructions**
